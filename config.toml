@@ -47,7 +47,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Coding"
-  url = "/coding"
+  url = "/article"
   weight = 100
 
 [[menu.main]]
