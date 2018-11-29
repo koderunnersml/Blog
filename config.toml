@@ -9,7 +9,7 @@ paginate        = 6
   title = "KoderunnersML"
   subtitle = "Machine Learning Made Fun"
 
-  cover       = "uploads/koderunners_header.png"
+  cover       = "uploads/koderunners_header.jpg"
   description = "Koderunners Machine Learning Developers' Pool"
   metaDescription = "Koderunners Machine Learning Developers' Pool"
   googleAnalytics = "UA-75993010-2"
