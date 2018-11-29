@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 date: 2018-11-29T05:39:57.744Z
 draft: false
 categories: About
