@@ -46,16 +46,21 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Blog"
-  url = "/blog"
+  name = "About"
+  url = "/life"
   weight = 100
 
 [[menu.main]]
-  name = "About"
-  url = "/life"
+  name = "Blog"
+  url = "/blog"
   weight = 99
 
 [[menu.main]]
   name = "Admin"
   url = "/admin"
+  weight = 98
+
+[[menu.main]]
+  name = "Koderunners"
+  url = "https://koderunners.wordpress.com"
   weight = 98
