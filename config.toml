@@ -29,8 +29,8 @@ paginate        = 6
   author = "KoderunnersML"
   authorAvatar = "uploads/koderunners.jpg"
   authorLocation = "Bhubaneshwar, India"
-  authorWebsite = "https://koderunners.wordpress.com"
-  authorDescription = "Open Education, Open Innovation, Open Source"
+  authorWebsite = "https://koderunners.wordpress.com/"
+  authorDescription = "Official Machine Learning Developers' Pool of the Koderunners Community"
 
   pageNotFoundTitle = "404 - Page not found"
 
