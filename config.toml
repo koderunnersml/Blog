@@ -1,36 +1,36 @@
-BaseURL = "https://blog.chrisstayte.com/"
+BaseURL = "/"
 theme = "casper-two"
 languageCode    = "en-US"
-disqusShortname = "blog-chrisstayte"
+disqusShortname = "koderunnersml"
 paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title = ""
-  subtitle = ""
+  title = "KoderunnersML"
+  subtitle = "Machine Learning Made Fun"
 
-  cover       = "uploads/header.png"
-  description = "Chris Stayte's Awesome Blog"
-  metaDescription = ""
+  cover       = "uploads/koderunners_header.png"
+  description = "Koderunners Machine Learning Developers' Pool"
+  metaDescription = "Koderunners Machine Learning Developers' Pool"
   googleAnalytics = "UA-75993010-2"
   customCSS = []
   RSSLink = ""
 
-  twitterName = "chrisstayte"
-  fbName = "christstayte"
-  githubName = "chrisstayte"
-  youtubeName = "chrisstayte"
+  twitterName = ""
+  fbName = "koderunners"
+  githubName = "koderunners"
+  youtubeName = ""
 
   logo = ""
-  orgName = "Chris Stayte"
-  orgWebsite = "https://blog.chrisstayte.com"
-  orgDescription = "Chris Stayte"
+  orgName = "Koderunners"
+  orgWebsite = "https://github.com/koderunners"
+  orgDescription = "The Koderunners Community"
 
-  author = "Chris Stayte"
-  authorAvatar = "uploads/chrisstayte_profilepic.jpg"
-  authorLocation = "Dayton, OH"
-  authorWebsite = "https://chrisstayte.com"
-  authorDescription = "Developer, Designer, Legend..."
+  author = "KoderunnersML"
+  authorAvatar = "uploads/koderunners.jpg"
+  authorLocation = "Bhubaneshwar, India"
+  authorWebsite = "https://koderunners.wordpress.com"
+  authorDescription = "Open Education, Open Innovation, Open Source"
 
   pageNotFoundTitle = "404 - Page not found"
 
