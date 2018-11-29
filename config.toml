@@ -47,7 +47,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "About"
-  url = "/life"
+  url = "/life/-2018-about-us-index-md"
   weight = 100
 
 [[menu.main]]
