@@ -7,6 +7,7 @@ tags:
   - machinelearning
 author: KoderunnersML
 authorImage: uploads/koderunners.jpg
+image: /uploads/7.jpg
 comments: true
 share: true
 type: post
