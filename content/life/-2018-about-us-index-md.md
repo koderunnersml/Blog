@@ -7,6 +7,7 @@ tags:
   - machinelearning
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
+image: /uploads/3.jpg
 comments: true
 share: true
 type: post
